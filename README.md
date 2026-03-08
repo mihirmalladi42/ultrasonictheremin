@@ -17,5 +17,9 @@ Model:
 Wiring Diagram:
 <img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://github.com/user-attachments/assets/352e0b86-1af7-4650-9cb6-2ff1c802b8ce" />
 
+Circuitry Design:
+https://www.tinkercad.com/things/gXzKhd10P43-theremin?sharecode=ZcgeSWRlYZF_XOO76yfucLzvy34Cqi3Yw_LQSyM3c1M
 
+3D Modeling:
+https://www.tinkercad.com/things/0xfbQ4cIIBW-3d-theremin-model?sharecode=ovt83WvaYsupHMJR1KmqzfSi7klXqXpnrTOYHmw2ORY
 
