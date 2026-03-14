@@ -11,20 +11,11 @@ Overall, this project was a very difficult challenge since I had to learn about 
 Fully Assembled:
 <img width="1038" height="614" alt="Screenshot 2026-03-07 at 5 18 17 PM" src="https://github.com/user-attachments/assets/4cd9c7b1-b9fe-45dc-b1bd-c5e76493e140" />
 
-Model:
-<img width="1260" height="925" alt="Screenshot 2026-03-07 171422" src="https://github.com/user-attachments/assets/d1f9725e-5e6d-4881-9e4f-1c91f4d7cbb7" />
-
-Wiring Diagram:
-<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://github.com/user-attachments/assets/352e0b86-1af7-4650-9cb6-2ff1c802b8ce" />
-
-Circuitry Design:
-https://www.tinkercad.com/things/gXzKhd10P43-theremin?sharecode=ZcgeSWRlYZF_XOO76yfucLzvy34Cqi3Yw_LQSyM3c1M
-
-3D Modeling:
-https://www.tinkercad.com/things/0xfbQ4cIIBW-3d-theremin-model?sharecode=ovt83WvaYsupHMJR1KmqzfSi7klXqXpnrTOYHmw2ORY
-
 
 CNV BOM:
+
+
+
 Quantity,Component,Link,Price
 1,Arduino Uno R3,https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_1?crid=3F06N52WCSVMB&dib=eyJ2IjoiMSJ9.MazmhFfn-DF8W5oyX_S-tPdVrhVady4ZAklWxuOPi75hnZG5eudwvsegtvpf1bp45AeCVclZAzSeiThek3KQ4tAcotqhskcRJAGEZ-tUUDm53P2D101ZQw7Vqhfq3FKVbmmv3q4C8lpNlq0LVldWMuKWesu0M3fsRDlcTH7aYGEQ9Qc6rnql0tulZyhElZ7_mMzcBNZuGjHYi7NIoWVkm6CHMoIemMBT5Wn7XLY6jeU.D3xQJ5E6U7RFUzEYKQ566a94m0ktxfwRaRmIqC1lNMI&dib_tag=se&keywords=arduino%2Buno%2Br3&qid=1772925071&sprefix=arduino%2Buno%2Br3%2Caps%2C158&sr=8-1&th=1,27.6
 2,Ultrasonic Distance Sensor (4-pin),https://www.amazon.com/WWZMDiB-HC-SR04-Ultrasonic-Distance-Measuring/dp/B0B1MJJLJP/ref=sr_1_3?crid=3DOSA28VKFI50&dib=eyJ2IjoiMSJ9.mgMH4aBu9pFOM1LCMI_ZRrBjONidPRd0tD0hE5DsuqEBpT6VawmO2XqGG5A1L95AFp2JjMbFY79OC9aRTK-48zt7h3J-obp8rkydfLGP2qMRqySDas6Xdm8MMo2c5CauOJRxF2EZMlUfWxoRrZT2cVRbABPIMUFBAy0zDiFvKWbX0-p_YMUkN4JfrEodWUWmEbVXDeifLhCRT6CxI4g0_dX0s2LI6L9WUf-xMlUiuhQ.50QsXzmN7JGsMVyLx79JjGi3HccHWxOArhO_5fjL8H4&dib_tag=se&keywords=ultrasonic%2Bdistance%2Bsensor%2B4%2Bpin&qid=1772925105&sprefix=ultrasonic%2Bdistance%2Bsensor%2B4%2Bpi%2Caps%2C156&sr=8-3&th=1,6.99
@@ -40,3 +31,19 @@ Quantity,Component,Link,Price
 ,,,
 1,3D Print,Printed by the_idk,5.52
 ,,Total,80.99
+
+
+
+Model:
+<img width="1260" height="925" alt="Screenshot 2026-03-07 171422" src="https://github.com/user-attachments/assets/d1f9725e-5e6d-4881-9e4f-1c91f4d7cbb7" />
+
+Wiring Diagram:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://github.com/user-attachments/assets/352e0b86-1af7-4650-9cb6-2ff1c802b8ce" />
+
+Circuitry Design:
+https://www.tinkercad.com/things/gXzKhd10P43-theremin?sharecode=ZcgeSWRlYZF_XOO76yfucLzvy34Cqi3Yw_LQSyM3c1M
+
+3D Modeling:
+https://www.tinkercad.com/things/0xfbQ4cIIBW-3d-theremin-model?sharecode=ovt83WvaYsupHMJR1KmqzfSi7klXqXpnrTOYHmw2ORY
+
+
