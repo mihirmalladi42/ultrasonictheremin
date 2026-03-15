@@ -32,8 +32,11 @@ PCB Front/Rear Views:
 
 
 
+Alibaba Cost:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/qMcZ7dB2/Screenshot-2026-03-15-at-1-35-03-AM.png" />
 
-
+Digikey Cost:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/YF89yswC/Screenshot-2026-03-15-at-1-34-40-AM.png" />
 
 JLCPCB Cost: 
 <img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/Wpqm9nvd/Screenshot-2026-03-15-010306.png" />
