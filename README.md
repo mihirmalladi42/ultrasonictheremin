@@ -47,25 +47,56 @@ https://www.tinkercad.com/things/gXzKhd10P43-theremin?sharecode=ZcgeSWRlYZF_XOO7
 https://www.tinkercad.com/things/0xfbQ4cIIBW-3d-theremin-model?sharecode=ovt83WvaYsupHMJR1KmqzfSi7klXqXpnrTOYHmw2ORY
 
 
-## Bill of Materials (BOM)
+# Bill of Materials
 
-| Quantity | Component | Link | Price ($) |
-|---|---|---|---|
-| 1 | Arduino Uno R3 | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6 | 27.60 |
-| 2 | Ultrasonic Distance Sensor (4-pin) | https://www.amazon.com/WWZMDiB-HC-SR04-Ultrasonic-Distance-Measuring/dp/B0B1MJJLJP | 6.99 |
-| 1 | Piezo | https://www.amazon.com/Cylewet-Terminals-Electronic-Electromagnetic-Impedance/dp/B01NCOXB2Q | 5.99 |
-| 1 | NPN Transistor (BJT) | https://www.amazon.com/BOJACK-2N2222-General-Purpose-Transistors/dp/B07T61M92G | 6.99 |
-| 2 | 1 kΩ Resistor | https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR6JNM1M | 3.99 |
-| 1 | Slide Switch | https://www.amazon.com/SS12F15-Position-Vertical-Electronic-Projects/dp/B0FNRDWD4B | 4.99 |
-| 1 | LCD 16x2 | https://www.amazon.com/Display-Module-Backlight-Arduino-MEGA2560/dp/B07T8ZG5D1 | 9.99 |
-| 1 | Wires | https://www.amazon.com/California-JOS-Breadboard-Optional-Multicolored/dp/B0BRTJQZRD | 3.99 |
+## Microcontroller & Sensors
+| Quantity | Component | Link | Price |
+|--------|-----------|------|------|
+| 1 | Arduino Uno R3 | https://www.alibaba.com/product-detail/p_1601291969226.html | $1.98 |
+| 2 | Ultrasonic Distance Sensor (4-pin) | https://www.alibaba.com/product-detail/HC-SR04P-Ultrasonic-Sensor-Module-Factory_1601221071512.html | $0.92 |
 
-### Cost Breakdown
+**Shipping:** $17.14  
+**Discounts:** -$12.35  
 
-| Item | Cost ($) |
-|---|---|
-| Subtotal | 70.53 |
-| Tax | 4.94 |
-| Electronics Total | 75.47 |
-| 3D Print (printed by the_idk) | 5.52 |
-| **Total** | **80.99** |
+**Subtotal:** $7.69
+
+---
+
+## Electronics Components
+| Quantity | Component | Link | Price |
+|--------|-----------|------|------|
+| 1 | Piezo Buzzer | https://www.digikey.com/en/products/detail/tdk-corporation/PS1440P02BT/2236832 | $0.78 |
+| 1 | NPN Transistor (BJT) | https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/2N5551/26600874 | $0.11 |
+| 1 | 1 kΩ Resistor | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314 | $0.10 |
+| 1 | Slide Switch | https://www.digikey.com/en/products/detail/nidec-components/CSS-1210TB/1124209 | $0.72 |
+| 1 | LCD 16x2 | https://www.digikey.com/en/products/detail/sunfounder/CN0295D/18668612 | $8.95 |
+
+**Shipping:** $6.99  
+**Tariff:** $0.10  
+
+**Subtotal:** $17.75
+
+---
+
+## Miscellaneous
+| Quantity | Component | Link | Price |
+|--------|-----------|------|------|
+| 1 | Jumper Wires | https://www.amazon.com/California-JOS-Breadboard-Optional-Multicolored/dp/B0BRTJQZRD | $3.99 |
+
+**Tax:** $0.28  
+
+**Subtotal:** $4.27
+
+---
+
+## Fabrication
+| Quantity | Item | Source | Price |
+|--------|------|--------|------|
+| 1 | 3D Printed Case | Printed by Ethan | $5.52 |
+| 1 | PCB | JLCPCB | $3.12 |
+
+---
+
+# Total Project Cost
+
+**$38.35**
