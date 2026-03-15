@@ -36,7 +36,7 @@ PCB Front/Rear Views:
 
 
 JLCPCB Cost: 
-<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/sdR2csL1/Screenshot-2026-03-14-213717.png" />
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/Wpqm9nvd/Screenshot-2026-03-15-010306.png" />
 
 
  
