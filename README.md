@@ -17,8 +17,29 @@ Model:
 Wiring Diagram:
 <img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://github.com/user-attachments/assets/352e0b86-1af7-4650-9cb6-2ff1c802b8ce" />
 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+PCB Schematic:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/rRYVcs0m/Screenshot-2026-03-14-211604.png" />
+
+PCB Wiring:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/DH78XSzj/Screenshot-2026-03-14-211909.png" />
+
+PCB Front/Rear Views:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/whx93LWC/Screenshot-2026-03-14-211925.png" />
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/bMq0skzG/Screenshot-2026-03-14-211941.png" />
+
+
+
+
+
+
+
 JLCPCB Cost: 
 <img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/sdR2csL1/Screenshot-2026-03-14-213717.png" />
+
+
+ 
 Circuitry Design:
 https://www.tinkercad.com/things/gXzKhd10P43-theremin?sharecode=ZcgeSWRlYZF_XOO76yfucLzvy34Cqi3Yw_LQSyM3c1M
 
