@@ -92,10 +92,10 @@ JLCPCB Cost:
 | Quantity | Item | Source | Price |
 |--------|------|--------|------|
 | 1 | 3D Printed Case | Printed by Ethan | $5.52 |
-| 1 | PCB | JLCPCB | $3.12 |
+| 1 | PCB | JLCPCB | $2.10 |
 
 ---
 
 # Total Project Cost
 
-**$38.35**
+**$37.33**
