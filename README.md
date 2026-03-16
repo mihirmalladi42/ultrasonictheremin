@@ -44,7 +44,8 @@ Digikey Cost:
 JLCPCB Cost: 
 <img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/Wpqm9nvd/Screenshot-2026-03-15-010306.png" />
 
-
+Amazon Cost:
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/kVmB1QKL/Screenshot-2026-03-16-at-6-27-50-PM.png" />
 
 # Bill of Materials
 
