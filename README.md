@@ -15,7 +15,7 @@ Model:
 <img width="1260" height="925" alt="Screenshot 2026-03-07 171422" src="https://github.com/user-attachments/assets/d1f9725e-5e6d-4881-9e4f-1c91f4d7cbb7" />
 
 Wiring Diagram:
-<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://github.com/user-attachments/assets/352e0b86-1af7-4650-9cb6-2ff1c802b8ce" />
+<img width="802" height="520" alt="Screenshot 2026-03-07 at 7 37 45 PM" src="https://i.ibb.co/FqJ9h1ty/Screenshot-2026-03-15-223429.png" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
