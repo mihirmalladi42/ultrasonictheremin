@@ -7,6 +7,9 @@ Rest the ultrasonic sensors on the rests at the ends of each tube, and power the
 
 I made this project since I am new to 3D modeling and circuit building. I figured this would be a fun project that would give nice results, and watching a video on the theremin hooked me into making one myself. This project was a very big challenge since I am new to hardware and 3D modeling.
 Overall, this project was a very difficult challenge since I had to learn about electronics, parts, and different modeling softwares from scratch. It was a very fun experience, and I hope to create more with Blueprint!
+
+
+Note: In the ThereminAndElectronics folder, the full 3D CAD model is a .step in a .zip file since it was too large to upload to GitHub.
 ------------------------------------------------------------------------------------------
 Fully Assembled:
 <img width="1038" height="614" alt="Screenshot 2026-03-07 at 5 18 17 PM" src="https://github.com/user-attachments/assets/4cd9c7b1-b9fe-45dc-b1bd-c5e76493e140" />
